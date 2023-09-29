@@ -5,3 +5,4 @@ this 4th line
 this 5th line
 this is 6th line
 this is 7th line in git bash
+this is 8th line in git bash
